@@ -84,7 +84,7 @@ If you'd like to check out my code and run the app, follow these steps:
 *(Tip: Take some screenshots of your app using Windows Snipping Tool, save them in the project folder, and add their filenames below!)*
 
 *   **Login & Registration Screen**
-    `![Login Screen](login_screenshot.png)`
+    `https://github.com/venkat-Shashank/Expense-Tracker-Application/blob/main/images/Dashboard.png`
 *   **Main Expense Dashboard**
     `![Dashboard](dashboard_screenshot.png)`
 *   **Monthly Reports View**
