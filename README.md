@@ -81,14 +81,9 @@ If you'd like to check out my code and run the app, follow these steps:
 
 ## 📸 Application Previews
 
-*(Tip: Take some screenshots of your app using Windows Snipping Tool, save them in the project folder, and add their filenames below!)*
-
-*   **Login & Registration Screen**
-    `https://github.com/venkat-Shashank/Expense-Tracker-Application/blob/main/images/Dashboard.png`
-*   **Main Expense Dashboard**
-    `![Dashboard](dashboard_screenshot.png)`
-*   **Monthly Reports View**
-    `![Reports](reports_screenshot.png)`
+*   [View Login & Registration Screen](https://github.com/venkat-Shashank/Expense-Tracker-Application/blob/main/images/login%20screen.png)
+*   [View Main Expense Dashboard](https://github.com/venkat-Shashank/Expense-Tracker-Application/blob/main/images/Dashboard.png)
+*   [View Monthly Reports](https://github.com/venkat-Shashank/Expense-Tracker-Application/blob/main/images/Monthly%20reports.png)
 
 ---
 
